@@ -1,0 +1,29 @@
+{
+  "name": "threejs_experiments",
+  "version": "1.0.1",
+  "description": "Expreminents with Three.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobanmak/threejs_experiments.git"
+  },
+  "keywords": [
+    "threejs",
+    "experiments"
+  ],
+  "author": "bobanmak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobanmak/threejs_experiments/issues"
+  },
+  "homepage": "https://github.com/bobanmak/threejs_experiments#readme",
+  "devDependencies": {
+    "three-viewport": "git+https://github.com/i3ernie/three-viewport.git"
+  }
+}
